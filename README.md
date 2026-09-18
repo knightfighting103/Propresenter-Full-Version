@@ -240,4 +240,4 @@ This repository serves as the official landing page for ProPresenter. The softwa
 **Get the most recent version of ProPresenter today!**
 
 ---
-**Last updated:** 2026-09-18 01:10:37 UTC
+**Last updated:** 2026-09-18 07:17:40 UTC
